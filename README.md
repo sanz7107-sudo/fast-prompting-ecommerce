@@ -137,6 +137,6 @@ pip install -r requirements.txt
 2. Configurar la variable de entorno `OPENAI_API_KEY`.
 3. Abrir `Fast_Prompting_Ecommerce.ipynb`.
 4. Ejecutar las celdas en orden.
-5. Cambiar `EJECUTAR_API = True` únicamente cuando se quiera consumir la API.
+5. Cambiar `usar_api = True` únicamente cuando se quiera consumir la API.
 
 > Nunca subir una API key al repositorio.
